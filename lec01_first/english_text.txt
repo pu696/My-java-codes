@@ -1,0 +1,5 @@
+Hello world! This is a test file for word counting.
+Java programming is fun and interesting.
+We are learning about input and output streams in Java.
+Word count program should work correctly.
+Hello again, this is the last line.
